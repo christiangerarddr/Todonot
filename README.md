@@ -5,3 +5,7 @@
 4. Run `php artisan key:gen`
 5. Run `php artisan migrate:fresh --seed`
 6. Run `npm run build`
+
+User Demo Credentials:
+email: admin@admin.com
+password: password
